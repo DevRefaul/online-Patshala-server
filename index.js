@@ -6,12 +6,14 @@ const cors = require('cors')
 app.use(cors())
 
 const courses = require('./Data/courses.json')
+const course = courses.map(course => course)
+const sixCourse = course.slice(0, 6)
 
 const courseNames = courses.map(c => c.name)
 const sixNames = courseNames.slice(0 ,6)
 
 app.get('/', (req, res) => {
-    res.send('Server Is Running')
+    res.send(sixCourse)
 })
 
 app.get('/courses', (req, res) => {
@@ -19,6 +21,11 @@ app.get('/courses', (req, res) => {
 })
 app.get('/courseNames', (req, res) => {
     res.send(sixNames)
+})
+app.get('/courses/id', (req, res) => {
+    const id = parseInt(req.params.id)
+    const course = courses.find(c => c.id === id)
+    res.send(course)
 })
 
 
