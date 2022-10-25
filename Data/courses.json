@@ -1,0 +1,532 @@
+[
+    {
+        "id":1,
+        "name":"Web Development",
+        "price":60,
+        "tutor":"Tony Stark",
+        "tutorImage": "https://ibb.co/ZTQ40r3",
+        "totalMilestone": 10,
+        "toalVideos": 120,
+        "details": "Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience. Web developers, or 'devs', do this by using a variety of coding languages",
+        "courseImage": "https://ibb.co/bNmwDJt",
+        "milestones":[
+            {"name":"Introduction",
+            "modules": [
+                {"name":"What is Web Development"},
+                {"name" : "Why Learn you should Web Development"},
+                {"name":"What you need to know before starting"},
+                {"name" : "Why this course"}
+                ]
+            },
+            {"name":"All about HTML",
+            "modules": [
+                {"name":"Basics of HTML"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            },
+            {"name":"All about CSS",
+            "modules": [
+                {"name":"Basics of CSS"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            },
+            {"name":"All about JQUERY",
+            "modules": [
+                {"name":"Basics of JQUERY"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            },
+            {"name":"All about JAVASCRIPT",
+            "modules": [
+                {"name":"What is JAVASCRIPT"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            }
+        ]
+    },
+    {
+        "id":2,
+        "name":"Search Engine Optimization",
+        "price":60,
+        "tutor":"Superman",
+        "tutorImage": "https://ibb.co/z6p6FXH",
+        "totalMilestone": 10,
+        "toalVideos": 120,
+        "details": "Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience. Web developers, or 'devs', do this by using a variety of coding languages",
+        "courseImage": "https://ibb.co/4KDJ0Md",
+        "milestones":[
+            {"name":"Introduction",
+            "modules": [
+                {"name":"What is Web Development"},
+                {"name" : "Why Learn you should Web Development"},
+                {"name":"What you need to know before starting"},
+                {"name" : "Why this course"}
+                ]
+            },
+            {"name":"All about HTML",
+            "modules": [
+                {"name":"Basics of HTML"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            },
+            {"name":"All about CSS",
+            "modules": [
+                {"name":"Basics of CSS"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            },
+            {"name":"All about JQUERY",
+            "modules": [
+                {"name":"Basics of JQUERY"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            },
+            {"name":"All about JAVASCRIPT",
+            "modules": [
+                {"name":"What is JAVASCRIPT"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            }
+        ]
+    },
+    {
+        "id":3,
+        "name":"App Development",
+        "price":60,
+        "tutor":"Hulk",
+        "tutorImage": "https://ibb.co/PDZJRWb",
+        "totalMilestone": 10,
+        "toalVideos": 120,
+        "details": "Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience. Web developers, or 'devs', do this by using a variety of coding languages",
+        "courseImage": "https://ibb.co/zSCq5YS",
+        "milestones":[
+            {"name":"Introduction",
+            "modules": [
+                {"name":"What is Web Development"},
+                {"name" : "Why Learn you should Web Development"},
+                {"name":"What you need to know before starting"},
+                {"name" : "Why this course"}
+                ]
+            },
+            {"name":"All about HTML",
+            "modules": [
+                {"name":"Basics of HTML"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            },
+            {"name":"All about CSS",
+            "modules": [
+                {"name":"Basics of CSS"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            },
+            {"name":"All about JQUERY",
+            "modules": [
+                {"name":"Basics of JQUERY"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            },
+            {"name":"All about JAVASCRIPT",
+            "modules": [
+                {"name":"What is JAVASCRIPT"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            }
+        ]
+    },
+    {
+        "id":4,
+        "name":"Digital Marketing",
+        "price":60,
+        "tutor":"Cris Hemsworth",
+        "tutorImage": "https://ibb.co/3sqTkWM",
+        "totalMilestone": 10,
+        "toalVideos": 120,
+        "details": "Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience. Web developers, or 'devs', do this by using a variety of coding languages",
+        "courseImage": "https://ibb.co/ScsYPFJ",
+        "milestones":[
+            {"name":"Introduction",
+            "modules": [
+                {"name":"What is Web Development"},
+                {"name" : "Why Learn you should Web Development"},
+                {"name":"What you need to know before starting"},
+                {"name" : "Why this course"}
+                ]
+            },
+            {"name":"All about HTML",
+            "modules": [
+                {"name":"Basics of HTML"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            },
+            {"name":"All about CSS",
+            "modules": [
+                {"name":"Basics of CSS"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            },
+            {"name":"All about JQUERY",
+            "modules": [
+                {"name":"Basics of JQUERY"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            },
+            {"name":"All about JAVASCRIPT",
+            "modules": [
+                {"name":"What is JAVASCRIPT"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            }
+        ]
+    },
+    {
+        "id":5,
+        "name":"UI/UX Designer",
+        "price":60,
+        "tutor":"Peter Parker",
+        "tutorImage": "https://ibb.co/bPMYK0W",
+        "totalMilestone": 10,
+        "toalVideos": 120,
+        "details": "Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience. Web developers, or 'devs', do this by using a variety of coding languages",
+        "courseImage": "https://ibb.co/hsq8pGW",
+        "milestones":[
+            {"name":"Introduction",
+            "modules": [
+                {"name":"What is Web Development"},
+                {"name" : "Why Learn you should Web Development"},
+                {"name":"What you need to know before starting"},
+                {"name" : "Why this course"}
+                ]
+            },
+            {"name":"All about HTML",
+            "modules": [
+                {"name":"Basics of HTML"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            },
+            {"name":"All about CSS",
+            "modules": [
+                {"name":"Basics of CSS"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            },
+            {"name":"All about JQUERY",
+            "modules": [
+                {"name":"Basics of JQUERY"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            },
+            {"name":"All about JAVASCRIPT",
+            "modules": [
+                {"name":"What is JAVASCRIPT"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            }
+        ]
+    },
+    {
+        "id":6,
+        "name":"Artificial Intelligence",
+        "price":60,
+        "tutor":"Tony Stark",
+        "tutorImage": "https://ibb.co/ZTQ40r3",
+        "totalMilestone": 10,
+        "toalVideos": 120,
+        "details": "Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience. Web developers, or 'devs', do this by using a variety of coding languages",
+        "courseImage": "https://ibb.co/y5Zn18w",
+        "milestones":[
+            {"name":"Introduction",
+            "modules": [
+                {"name":"What is Web Development"},
+                {"name" : "Why Learn you should Web Development"},
+                {"name":"What you need to know before starting"},
+                {"name" : "Why this course"}
+                ]
+            },
+            {"name":"All about HTML",
+            "modules": [
+                {"name":"Basics of HTML"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            },
+            {"name":"All about CSS",
+            "modules": [
+                {"name":"Basics of CSS"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            },
+            {"name":"All about JQUERY",
+            "modules": [
+                {"name":"Basics of JQUERY"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            },
+            {"name":"All about JAVASCRIPT",
+            "modules": [
+                {"name":"What is JAVASCRIPT"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            }
+        ]
+    },
+    {
+        "id":7,
+        "name":"Instagram Marketing",
+        "price":60,
+        "tutor":"Captain America",
+        "tutorImage": "https://ibb.co/thFKHdP",
+        "totalMilestone": 10,
+        "toalVideos": 120,
+        "details": "Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience. Web developers, or 'devs', do this by using a variety of coding languages",
+        "courseImage": "https://ibb.co/XLhrRTT",
+        "milestones":[
+            {"name":"Introduction",
+            "modules": [
+                {"name":"What is Web Development"},
+                {"name" : "Why Learn you should Web Development"},
+                {"name":"What you need to know before starting"},
+                {"name" : "Why this course"}
+                ]
+            },
+            {"name":"All about HTML",
+            "modules": [
+                {"name":"Basics of HTML"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            },
+            {"name":"All about CSS",
+            "modules": [
+                {"name":"Basics of CSS"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            },
+            {"name":"All about JQUERY",
+            "modules": [
+                {"name":"Basics of JQUERY"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            },
+            {"name":"All about JAVASCRIPT",
+            "modules": [
+                {"name":"What is JAVASCRIPT"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            }
+        ]
+    },
+    {
+        "id":8,
+        "name":"Project Mangement",
+        "price":60,
+        "tutor":"Batman",
+        "tutorImage": "https://ibb.co/5vGxw7j",
+        "totalMilestone": 10,
+        "toalVideos": 120,
+        "details": "Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience. Web developers, or 'devs', do this by using a variety of coding languages",
+        "courseImage": "https://ibb.co/pJs7GC4",
+        "milestones":[
+            {"name":"Introduction",
+            "modules": [
+                {"name":"What is Web Development"},
+                {"name" : "Why Learn you should Web Development"},
+                {"name":"What you need to know before starting"},
+                {"name" : "Why this course"}
+                ]
+            },
+            {"name":"All about HTML",
+            "modules": [
+                {"name":"Basics of HTML"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            },
+            {"name":"All about CSS",
+            "modules": [
+                {"name":"Basics of CSS"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            },
+            {"name":"All about JQUERY",
+            "modules": [
+                {"name":"Basics of JQUERY"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            },
+            {"name":"All about JAVASCRIPT",
+            "modules": [
+                {"name":"What is JAVASCRIPT"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            }
+        ]
+    },
+    {
+        "id":9,
+        "name":"Linkedin Marketing",
+        "price":60,
+        "tutor":"Deadpool",
+        "tutorImage": "https://ibb.co/zbM3gYJ",
+        "totalMilestone": 10,
+        "toalVideos": 120,
+        "details": "Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience. Web developers, or 'devs', do this by using a variety of coding languages",
+        "courseImage": "https://ibb.co/hBdnZGs",
+        "milestones":[
+            {"name":"Introduction",
+            "modules": [
+                {"name":"What is Web Development"},
+                {"name" : "Why Learn you should Web Development"},
+                {"name":"What you need to know before starting"},
+                {"name" : "Why this course"}
+                ]
+            },
+            {"name":"All about HTML",
+            "modules": [
+                {"name":"Basics of HTML"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            },
+            {"name":"All about CSS",
+            "modules": [
+                {"name":"Basics of CSS"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            },
+            {"name":"All about JQUERY",
+            "modules": [
+                {"name":"Basics of JQUERY"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            },
+            {"name":"All about JAVASCRIPT",
+            "modules": [
+                {"name":"What is JAVASCRIPT"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            }
+        ]
+    },
+    {
+        "id":10,
+        "name":"English Learning",
+        "price":60,
+        "tutor":"Logan",
+        "tutorImage": "https://ibb.co/GvFLZGZ",
+        "totalMilestone": 10,
+        "toalVideos": 120,
+        "details": "Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience. Web developers, or 'devs', do this by using a variety of coding languages",
+        "courseImage": "https://ibb.co/RY3XM1R",
+        "milestones":[
+            {"name":"Introduction",
+            "modules": [
+                {"name":"What is Web Development"},
+                {"name" : "Why Learn you should Web Development"},
+                {"name":"What you need to know before starting"},
+                {"name" : "Why this course"}
+                ]
+            },
+            {"name":"All about HTML",
+            "modules": [
+                {"name":"Basics of HTML"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            },
+            {"name":"All about CSS",
+            "modules": [
+                {"name":"Basics of CSS"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            },
+            {"name":"All about JQUERY",
+            "modules": [
+                {"name":"Basics of JQUERY"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            },
+            {"name":"All about JAVASCRIPT",
+            "modules": [
+                {"name":"What is JAVASCRIPT"},
+                {"name" : "Semi-Advance"},
+                {"name":"Little Advanced"},
+                {"name" : "Advance topics"}
+                ]
+            }
+        ]
+    }
+]
