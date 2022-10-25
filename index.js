@@ -13,6 +13,9 @@ const courseNames = courses.map(c => c.name)
 const sixNames = courseNames.slice(0 ,6)
 
 app.get('/', (req, res) => {
+    res.send('Server running')
+})
+app.get('/main', (req, res) => {
     res.send(sixCourse)
 })
 
