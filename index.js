@@ -25,7 +25,7 @@ app.get('/courses', (req, res) => {
 app.get('/courseNames', (req, res) => {
     res.send(sixNames)
 })
-app.get('/courses/id', (req, res) => {
+app.get('/courses/:id', (req, res) => {
     const id = parseInt(req.params.id)
     const course = courses.find(c => c.id === id)
     res.send(course)
