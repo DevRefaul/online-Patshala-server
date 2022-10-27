@@ -13,7 +13,7 @@
             {"name":"Introduction",
             "modules": [
                 {"name":"What is Web Development"},
-                {"name" : "Why Learn you should Web Development"},
+                {"name" : "Why you should learn Web Development"},
                 {"name":"What you need to know before starting"},
                 {"name" : "Why this course"}
                 ]
@@ -60,47 +60,47 @@
         "tutorImage": "https://i.ibb.co/7kPkQnN/png-transparent-superman-illustration-superman-batman-lex-luthor-flight-superman-comics-heroes-super.png",
         "totalMilestone": 10,
         "toalVideos": 120, "ratings":5, "totalStudents":999,
-        "details": "Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience. Web developers, or 'devs', do this by using a variety of coding languages",
+        "details": "Search engine optimization (SEO) is the process of improving the quality and quantity of website traffic to a website or a web page from search engines. SEO targets unpaid traffic (known as natural or organic results) rather than direct traffic or paid traffic",
         "courseImage": "https://i.ibb.co/348kPWz/seo.jpg",
-        "milestones":[
+                "milestones":[
             {"name":"Introduction",
             "modules": [
-                {"name":"What is Web Development"},
-                {"name" : "Why Learn you should Web Development"},
+                {"name":"What is SEO"},
+                {"name" : "Why you should learn SEO"},
                 {"name":"What you need to know before starting"},
                 {"name" : "Why this course"}
                 ]
             },
-            {"name":"All about HTML",
+            {"name":"Setup",
             "modules": [
-                {"name":"Basics of HTML"},
-                {"name" : "Semi-Advance"},
-                {"name":"Little Advanced"},
-                {"name" : "Advance topics"}
+                {"name":"What is need for Setup"},
+                {"name" : "Tools you need"},
+                {"name":"Relatable Websites"},
+                {"name" : "About to Start"}
                 ]
             },
-            {"name":"All about CSS",
+            {"name":"Basics of SEO",
             "modules": [
-                {"name":"Basics of CSS"},
-                {"name" : "Semi-Advance"},
-                {"name":"Little Advanced"},
-                {"name" : "Advance topics"}
+                {"name":"Create a List of Keywords"},
+                {"name" : "Analyze Google’s First Page"},
+                {"name":"Create Something Different or Better"},
+                {"name" : "Add a Hook"}
                 ]
             },
-            {"name":"All about JQUERY",
+            {"name":"Semiadvance of SEO",
             "modules": [
-                {"name":"Basics of JQUERY"},
-                {"name" : "Semi-Advance"},
-                {"name":"Little Advanced"},
-                {"name" : "Advance topics"}
+                {"name":"Optimize For On-Page SEO"},
+                {"name" : "Optimize For Search Intent"},
+                {"name":"Focus On Content Design"},
+                {"name" : "Build Links to Your Page"}
                 ]
             },
-            {"name":"All about JAVASCRIPT",
+            {"name":"Advance of SEO",
             "modules": [
-                {"name":"What is JAVASCRIPT"},
-                {"name" : "Semi-Advance"},
-                {"name":"Little Advanced"},
-                {"name" : "Advance topics"}
+                {"name":"Improve and Update Your Content"},
+                {"name" : "Local SEO strategy"},
+                {"name":"International SEO strategy"},
+                {"name" : "Looking to the future"}
                 ]
             }
         ]
@@ -108,52 +108,52 @@
     {
         "id":3,
         "name":"App Development",
-        "price":60,
+        "price":80,
         "tutor":"Hulk",
         "tutorImage": "https://i.ibb.co/HhDR0PM/marvel-super-hero-squad-online-hulk-iron-man-marvel-comics-png-favpng-Ag-Pahu-Xv-VVgk-GJEvb-Efjbs6v0.jpg",
-        "totalMilestone": 10,
-        "toalVideos": 120, "ratings":5, "totalStudents":999,
-        "details": "Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience. Web developers, or 'devs', do this by using a variety of coding languages",
+        "totalMilestone": 8,
+        "toalVideos": 80, "ratings":3.8, "totalStudents":92,
+        "details": "Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones. These software applications are designed to run on mobile devices, such as a smartphone or tablet computer.",
         "courseImage": "https://i.ibb.co/Q6hycR6/appdev.jpg",
-        "milestones":[
+                "milestones":[
             {"name":"Introduction",
             "modules": [
-                {"name":"What is Web Development"},
-                {"name" : "Why Learn you should Web Development"},
+                {"name":"What is App Development"},
+                {"name" : "Why you should learn App Development"},
                 {"name":"What you need to know before starting"},
                 {"name" : "Why this course"}
                 ]
             },
-            {"name":"All about HTML",
+            {"name":"Setup",
             "modules": [
-                {"name":"Basics of HTML"},
-                {"name" : "Semi-Advance"},
-                {"name":"Little Advanced"},
-                {"name" : "Advance topics"}
+                {"name":"What is need for Setup"},
+                {"name" : "Tools you need"},
+                {"name":"Relatable Websites"},
+                {"name" : "About to Start"}
                 ]
             },
-            {"name":"All about CSS",
+            {"name":"Basics of App Development",
             "modules": [
-                {"name":"Basics of CSS"},
-                {"name" : "Semi-Advance"},
-                {"name":"Little Advanced"},
-                {"name" : "Advance topics"}
+                {"name":"The first call. It all starts with a call"},
+                {"name" : "NDA"},
+                {"name":"Scoping"},
+                {"name" : "Agile sprint"}
                 ]
             },
-            {"name":"All about JQUERY",
+            {"name":"Semiadvance of App Development",
             "modules": [
-                {"name":"Basics of JQUERY"},
-                {"name" : "Semi-Advance"},
-                {"name":"Little Advanced"},
-                {"name" : "Advance topics"}
+                {"name":"Planning and Research"},
+                {"name" : "Prototyping"},
+                {"name":"Design"},
+                {"name" : "Development"}
                 ]
             },
-            {"name":"All about JAVASCRIPT",
+            {"name":"Advance of App Development",
             "modules": [
-                {"name":"What is JAVASCRIPT"},
-                {"name" : "Semi-Advance"},
-                {"name":"Little Advanced"},
-                {"name" : "Advance topics"}
+                {"name":"Testing"},
+                {"name" : "Release"},
+                {"name":"Maintenance"},
+                {"name" : "Grow as a App Developer"}
                 ]
             }
         ]
@@ -161,52 +161,52 @@
     {
         "id":4,
         "name":"Digital Marketing",
-        "price":60,
+        "price":130,
         "tutor":"Cris Hemsworth",
         "tutorImage": "https://i.ibb.co/thtH3cx/53-539789-thor-png-image-with-transparent-background-thor-marvel.jpg",
         "totalMilestone": 10,
-        "toalVideos": 120, "ratings":5, "totalStudents":999,
-        "details": "Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience. Web developers, or 'devs', do this by using a variety of coding languages",
+        "toalVideos": 150, "ratings":4.2, "totalStudents":1129,
+        "details": "Digital marketing is the component of marketing that uses the Internet and online based digital technologies such as desktop computers, mobile phones and other digital media and platforms to promote products and services",
         "courseImage": "https://i.ibb.co/ZSL4VqN/digitalmarketing.jpg",
-        "milestones":[
+                "milestones":[
             {"name":"Introduction",
             "modules": [
-                {"name":"What is Web Development"},
-                {"name" : "Why Learn you should Web Development"},
+                {"name":"What is Digital Marketing"},
+                {"name" : "Why you should learn Digital Marketing"},
                 {"name":"What you need to know before starting"},
                 {"name" : "Why this course"}
                 ]
             },
-            {"name":"All about HTML",
+            {"name":"Setup",
             "modules": [
-                {"name":"Basics of HTML"},
-                {"name" : "Semi-Advance"},
-                {"name":"Little Advanced"},
-                {"name" : "Advance topics"}
+                {"name":"What is need for Setup"},
+                {"name" : "Tools you need"},
+                {"name":"Relatable Websites"},
+                {"name" : "About to Start"}
                 ]
             },
-            {"name":"All about CSS",
+            {"name":"Basics of Digital Marketing",
             "modules": [
-                {"name":"Basics of CSS"},
-                {"name" : "Semi-Advance"},
-                {"name":"Little Advanced"},
-                {"name" : "Advance topics"}
+                {"name":"Build your buyer personas"},
+                {"name" : "Identify your goals and the digital marketing tools you'll need"},
+                {"name":"Evaluate your existing digital channels and assets"},
+                {"name" : "Audit and plan your owned media campaigns"}
                 ]
             },
-            {"name":"All about JQUERY",
+            {"name":"Semiadvance of Digital Marketing",
             "modules": [
-                {"name":"Basics of JQUERY"},
-                {"name" : "Semi-Advance"},
-                {"name":"Little Advanced"},
-                {"name" : "Advance topics"}
+                {"name":"Audit and plan your earned media campaigns"},
+                {"name" : "Audit and plan your paid media campaigns"},
+                {"name":"Bring your digital marketing campaign together"},
+                {"name" : "Publish a blog"}
                 ]
             },
-            {"name":"All about JAVASCRIPT",
+            {"name":"Advance of Digital Marketing",
             "modules": [
-                {"name":"What is JAVASCRIPT"},
-                {"name" : "Semi-Advance"},
-                {"name":"Little Advanced"},
-                {"name" : "Advance topics"}
+                {"name":"Create an email marketing campaign"},
+                {"name" : "Offer free educational resources"},
+                {"name":"Search engine optimize your digital content"},
+                {"name" : "Produce a podcast"}
                 ]
             }
         ]
@@ -214,52 +214,52 @@
     {
         "id":5,
         "name":"UI/UX Designer",
-        "price":60,
+        "price":160,
         "tutor":"Peter Parker",
         "tutorImage": "https://i.ibb.co/mGVdcjD/purepng-com-spidermanspider-manspidermansuperherocomic-bookmarvel-comicscharacterstan-leegamesmovie.png",
         "totalMilestone": 10,
-        "toalVideos": 120, "ratings":5, "totalStudents":999,
-        "details": "Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience. Web developers, or 'devs', do this by using a variety of coding languages",
+        "toalVideos": 80, "ratings":4.5, "totalStudents":159,
+        "details": "A user experience (UX) designer works on a team to create products that provide meaningful and enjoyable experiences for users. They are concerned with the entire process of product design, from branding to design to useability. UI (user interface) designers build interfaces in software or other computerized devices.",
         "courseImage": "https://i.ibb.co/8Mh8Fy5/uiux.jpg",
-        "milestones":[
+                "milestones":[
             {"name":"Introduction",
             "modules": [
-                {"name":"What is Web Development"},
-                {"name" : "Why Learn you should Web Development"},
+                {"name":"What is UI/UX Designeing"},
+                {"name" : "Why you should learn UI/UX Designing"},
                 {"name":"What you need to know before starting"},
                 {"name" : "Why this course"}
                 ]
             },
-            {"name":"All about HTML",
+            {"name":"Setup",
             "modules": [
-                {"name":"Basics of HTML"},
-                {"name" : "Semi-Advance"},
-                {"name":"Little Advanced"},
-                {"name" : "Advance topics"}
+                {"name":"What is need for Setup"},
+                {"name" : "Tools you need"},
+                {"name":"Relatable Websites"},
+                {"name" : "About to Start"}
                 ]
             },
-            {"name":"All about CSS",
+            {"name":"Basics of Artificial Intelligence",
             "modules": [
-                {"name":"Basics of CSS"},
-                {"name" : "Semi-Advance"},
-                {"name":"Little Advanced"},
-                {"name" : "Advance topics"}
+                {"name":"Define business strategy through stakeholder interviews."},
+                {"name" :"Identify how to differentiate through competitive research and analysis."},
+                {"name":"Set specific design goals to get where you want to be"},
+                {"name" : "Stay user-centered with validated user research."}
                 ]
             },
-            {"name":"All about JQUERY",
+            {"name":"Semiadvance of Artificial Intelligence",
             "modules": [
-                {"name":"Basics of JQUERY"},
-                {"name" : "Semi-Advance"},
-                {"name":"Little Advanced"},
-                {"name" : "Advance topics"}
+                {"name":"Run structured experiments and iterate on the results."},
+                {"name" : "Optimize for speed and accessibility"},
+                {"name":"Evaluate the current state"},
+                {"name" : " Set your goals, UX vision, and proof of concept"}
                 ]
             },
-            {"name":"All about JAVASCRIPT",
+            {"name":"Advance of Artificial Intelligence",
             "modules": [
-                {"name":"What is JAVASCRIPT"},
-                {"name" : "Semi-Advance"},
-                {"name":"Little Advanced"},
-                {"name" : "Advance topics"}
+                {"name":"Create guidelines "},
+                {"name" : "Develop a plan"},
+                {"name":"Define what metrics to track"},
+                {"name" : "Grow as a UI/UX Designer"}
                 ]
             }
         ]
@@ -267,52 +267,52 @@
     {
         "id":6,
         "name":"Artificial Intelligence",
-        "price":60,
+        "price":260,
         "tutor":"Tony Stark",
         "tutorImage": "https://i.ibb.co/RHXrqK1/avengers-characterthumbnail-ironman-96bd4819.webp",
         "totalMilestone": 10,
-        "toalVideos": 120, "ratings":5, "totalStudents":999,
-        "details": "Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience. Web developers, or 'devs', do this by using a variety of coding languages",
+        "toalVideos": 120, "ratings":5, "totalStudents":99,
+        "details": "Artificial intelligence is intelligence demonstrated by machines, as opposed to the natural intelligence displayed by animals and humans.",
         "courseImage": "https://i.ibb.co/2PC7QjD/ai.jpg",
-        "milestones":[
+                "milestones":[
             {"name":"Introduction",
             "modules": [
-                {"name":"What is Web Development"},
-                {"name" : "Why Learn you should Web Development"},
+                {"name":"What is Artificial Intelligence"},
+                {"name" : "Why you should learn Artificial Intelligence"},
                 {"name":"What you need to know before starting"},
                 {"name" : "Why this course"}
                 ]
             },
-            {"name":"All about HTML",
+            {"name":"Setup",
             "modules": [
-                {"name":"Basics of HTML"},
-                {"name" : "Semi-Advance"},
-                {"name":"Little Advanced"},
-                {"name" : "Advance topics"}
+                {"name":"What is need for Setup"},
+                {"name" : "Tools you need"},
+                {"name":"Relatable Websites"},
+                {"name" : "About to Start"}
                 ]
             },
-            {"name":"All about CSS",
+            {"name":"Basics of Artificial Intelligence",
             "modules": [
-                {"name":"Basics of CSS"},
-                {"name" : "Semi-Advance"},
-                {"name":"Little Advanced"},
-                {"name" : "Advance topics"}
+                {"name":"Lawfulness"},
+                {"name" : "Responsibility and Accountability"},
+                {"name":"Explainability and Traceability"},
+                {"name" : "Reliability"}
                 ]
             },
-            {"name":"All about JQUERY",
+            {"name":"Semiadvance of Artificial Intelligence",
             "modules": [
-                {"name":"Basics of JQUERY"},
-                {"name" : "Semi-Advance"},
-                {"name":"Little Advanced"},
-                {"name" : "Advance topics"}
+                {"name":"Governability"},
+                {"name" : "Bias Mitigation"},
+                {"name":"Putting Principles into Practice"},
+                {"name" : "Accelerating principled and interoperable adoption"}
                 ]
             },
-            {"name":"All about JAVASCRIPT",
+            {"name":"Advance of Artificial Intelligence",
             "modules": [
-                {"name":"What is JAVASCRIPT"},
-                {"name" : "Semi-Advance"},
-                {"name":"Little Advanced"},
-                {"name" : "Advance topics"}
+                {"name":"Digital uplift"},
+                {"name" : "Building data capability"},
+                {"name":"Procurement"},
+                {"name" : "Innovation and collaboration"}
                 ]
             }
         ]
@@ -320,52 +320,52 @@
     {
         "id":7,
         "name":"Instagram Marketing",
-        "price":60,
+        "price":160,
         "tutor":"Captain America",
         "tutorImage": "https://i.ibb.co/qnVjDZF/marvel-avengers-alliance-marvel-ultimate-alliance-2-captain-america-hulk-iron-man-png-favpng-v-A4-QP.jpg",
         "totalMilestone": 10,
-        "toalVideos": 120, "ratings":5, "totalStudents":999,
-        "details": "Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience. Web developers, or 'devs', do this by using a variety of coding languages",
+        "toalVideos": 110, "ratings":4.8, "totalStudents":399,
+        "details": "What is Instagram marketing? Instagram marketing is the practice of using Instagram to grow your brand awareness, audience, leads, and sales. As the favorite social media platform of people ages 16-34, Instagram is a highly effective marketing platform for brands, entrepreneurs, and creators.",
         "courseImage": "https://i.ibb.co/2hD14BB/insta.jpg",
-        "milestones":[
+                "milestones":[
             {"name":"Introduction",
             "modules": [
-                {"name":"What is Web Development"},
-                {"name" : "Why Learn you should Web Development"},
+                {"name":"What is Instagram Marketing"},
+                {"name" : "Why you should learn Instagram Marketing"},
                 {"name":"What you need to know before starting"},
                 {"name" : "Why this course"}
                 ]
             },
-            {"name":"All about HTML",
+            {"name":"Setup",
             "modules": [
-                {"name":"Basics of HTML"},
-                {"name" : "Semi-Advance"},
-                {"name":"Little Advanced"},
-                {"name" : "Advance topics"}
+                {"name":"What is need for Setup"},
+                {"name" : "Tools you need"},
+                {"name":"Relatable Websites"},
+                {"name" : "About to Start"}
                 ]
             },
-            {"name":"All about CSS",
+            {"name":"Basics of Instagram Marketing",
             "modules": [
-                {"name":"Basics of CSS"},
-                {"name" : "Semi-Advance"},
-                {"name":"Little Advanced"},
-                {"name" : "Advance topics"}
+                {"name":"Stick to a Product-Focused Content Calendar"},
+                {"name" : "Make Your Creativity & Voice Count"},
+                {"name":"Couple Your Posts With the Right Hashtags"},
+                {"name" : " Curate & Promote User-Generated Content"}
                 ]
             },
-            {"name":"All about JQUERY",
+            {"name":"Semiadvance of Instagram Marketing",
             "modules": [
-                {"name":"Basics of JQUERY"},
-                {"name" : "Semi-Advance"},
-                {"name":"Little Advanced"},
-                {"name" : "Advance topics"}
+                {"name":"Sell With Instagram Stories"},
+                {"name" : "Create Instagram-Specific Landing Pages"},
+                {"name":"Promote Your Most Popular Products Via Instagram Ads"},
+                {"name" : "Foster Relationships With Influencers"}
                 ]
             },
-            {"name":"All about JAVASCRIPT",
+            {"name":"Advance of Instagram Marketing",
             "modules": [
-                {"name":"What is JAVASCRIPT"},
-                {"name" : "Semi-Advance"},
-                {"name":"Little Advanced"},
-                {"name" : "Advance topics"}
+                {"name":" Rethink Your Posting Frequency"},
+                {"name" : "Promote Your Instagram Anywhere & Everywhere"},
+                {"name":" Listen to Your Customers"},
+                {"name" : "Grow as a Instagram Marketer"}
                 ]
             }
         ]
@@ -373,52 +373,52 @@
     {
         "id":8,
         "name":"Project Mangement",
-        "price":60,
+        "price":50,
         "tutor":"Batman",
         "tutorImage": "https://i.ibb.co/BjcKF16/batman-png-11553978450z8cmxxifwk.png",
         "totalMilestone": 10,
-        "toalVideos": 120, "ratings":5, "totalStudents":999,
-        "details": "Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience. Web developers, or 'devs', do this by using a variety of coding languages",
+        "toalVideos": 120, "ratings": 3.9, "totalStudents":29,
+        "details": "Project management is the application of processes, methods, skills, knowledge and experience to achieve specific project objectives according to the project acceptance criteria within agreed parameters. Project management has final deliverables that are constrained to a finite timescale and budget.",
         "courseImage": "https://i.ibb.co/V2h1rXM/projectmanagement.jpg",
         "milestones":[
             {"name":"Introduction",
             "modules": [
-                {"name":"What is Web Development"},
-                {"name" : "Why Learn you should Web Development"},
+                {"name":"What is Project Mangement"},
+                {"name" : "Why you should learn Project Mangement"},
                 {"name":"What you need to know before starting"},
                 {"name" : "Why this course"}
                 ]
             },
-            {"name":"All about HTML",
+            {"name":"Setup",
             "modules": [
-                {"name":"Basics of HTML"},
-                {"name" : "Semi-Advance"},
-                {"name":"Little Advanced"},
-                {"name" : "Advance topics"}
+                {"name":"What is need for Setup"},
+                {"name" : "Tools you need"},
+                {"name":"Relatable Websites"},
+                {"name" : "About to Start"}
                 ]
             },
-            {"name":"All about CSS",
+            {"name":"Basics of Project Mangement",
             "modules": [
-                {"name":"Basics of CSS"},
-                {"name" : "Semi-Advance"},
-                {"name":"Little Advanced"},
-                {"name" : "Advance topics"}
+                {"name":"Define your goals early and keep them adaptable"},
+                {"name" : "Understand the project scope."},
+                {"name":"Communicate with clients and team members."},
+                {"name" : "Encourage teamwork"}
                 ]
             },
-            {"name":"All about JQUERY",
+            {"name":"Semiadvance of Project Mangement",
             "modules": [
-                {"name":"Basics of JQUERY"},
-                {"name" : "Semi-Advance"},
-                {"name":"Little Advanced"},
-                {"name" : "Advance topics"}
+                {"name":"Set clear expectations."},
+                {"name" : "Manage project risks."},
+                {"name":"Use a work breakdown structure."},
+                {"name" : "Document your process."}
                 ]
             },
-            {"name":"All about JAVASCRIPT",
+            {"name":"Advance of Project Mangement",
             "modules": [
-                {"name":"What is JAVASCRIPT"},
-                {"name" : "Semi-Advance"},
-                {"name":"Little Advanced"},
-                {"name" : "Advance topics"}
+                {"name":" Allow for feedback"},
+                {"name" : "Celebrate milestones"},
+                {"name":"Reinvest savings"},
+                {"name" : "Recruit better candidates"}
                 ]
             }
         ]
@@ -426,52 +426,52 @@
     {
         "id":9,
         "name":"Linkedin Marketing",
-        "price":60,
+        "price":160,
         "tutor":"Deadpool",
         "tutorImage": "https://i.ibb.co/mtjnKw8/png-clipart-deadpool-deathstroke-spider-man-comic-book-comics-deadpool-comics-superhero.png",
         "totalMilestone": 10,
-        "toalVideos": 120, "ratings":5, "totalStudents":999,
-        "details": "Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience. Web developers, or 'devs', do this by using a variety of coding languages",
+        "toalVideos": 120, "ratings":4.5, "totalStudents":299,
+        "details": "What is LinkedIn marketing? LinkedIn marketing is the process of using LinkedIn to make connections, generate leads, improve brand awareness, foster business relationships and partnerships, share content, and drive traffic to your website.",
         "courseImage": "https://i.ibb.co/jywxWCh/linkedin.jpg",
         "milestones":[
             {"name":"Introduction",
             "modules": [
-                {"name":"What is Web Development"},
-                {"name" : "Why Learn you should Web Development"},
+                {"name":"What is Linkedin Marketing"},
+                {"name" : "Why you should learn Linkedin Marketing"},
                 {"name":"What you need to know before starting"},
                 {"name" : "Why this course"}
                 ]
             },
-            {"name":"All about HTML",
+            {"name":"Setup",
             "modules": [
-                {"name":"Basics of HTML"},
-                {"name" : "Semi-Advance"},
-                {"name":"Little Advanced"},
-                {"name" : "Advance topics"}
+                {"name":"What is need for Setup"},
+                {"name" : "Tools you need"},
+                {"name":"Relatable Websites"},
+                {"name" : "About to Start"}
                 ]
             },
-            {"name":"All about CSS",
+            {"name":"Basics of Linkedin Marketing",
             "modules": [
-                {"name":"Basics of CSS"},
-                {"name" : "Semi-Advance"},
-                {"name":"Little Advanced"},
-                {"name" : "Advance topics"}
+                {"name":"Know Your Audience"},
+                {"name" : "Study LinkedIn Influencers & Businesses That Hit the Mark"},
+                {"name":"Optimize Your LinkedIn Profile"},
+                {"name" : "Connect with People You Want to Impress."}
                 ]
             },
-            {"name":"All about JQUERY",
+            {"name":"Semiadvance of Linkedin Marketing",
             "modules": [
-                {"name":"Basics of JQUERY"},
-                {"name" : "Semi-Advance"},
-                {"name":"Little Advanced"},
-                {"name" : "Advance topics"}
+                {"name":"Build Relationships."},
+                {"name" : "Create a LinkedIn Page for Your Business."},
+                {"name":"Promote Your LinkedIn Page."},
+                {"name" : "Use a Content Calendar to Ensure Consistency"}
                 ]
             },
-            {"name":"All about JAVASCRIPT",
+            {"name":"Advance of Linkedin Marketing",
             "modules": [
-                {"name":"What is JAVASCRIPT"},
-                {"name" : "Semi-Advance"},
-                {"name":"Little Advanced"},
-                {"name" : "Advance topics"}
+                {"name":"Create Content That Shows Your Expertise and Personality"},
+                {"name" : "Show Expertise"},
+                {"name":"Use a Mix of Content Formats"},
+                {"name" : "Place Outbound Links in the Comments, Not the Post "}
                 ]
             }
         ]
@@ -479,52 +479,52 @@
     {
         "id":10,
         "name":"English Learning",
-        "price":60,
+        "price":750,
         "tutor":"Logan",
         "tutorImage": "https://i.ibb.co/FbnMQcQ/Wolverine-Future-1.webp",
         "totalMilestone": 10,
-        "toalVideos": 120, "ratings":5, "totalStudents":999,
-        "details": "Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience. Web developers, or 'devs', do this by using a variety of coding languages",
+        "toalVideos": 60, "ratings":5, "totalStudents":129,
+        "details": "Learn English online and improve your skills through our high-quality courses and resources – all designed for adult language learners. Everything you find here has been specially created by the British Council, the world's English teaching experts.",
         "courseImage": "https://i.ibb.co/5GrQzdb/learnenglish.jpg",
         "milestones":[
             {"name":"Introduction",
             "modules": [
-                {"name":"What is Web Development"},
-                {"name" : "Why Learn you should Web Development"},
+                {"name":"How will this course run"},
+                {"name" : "Why you should learn English"},
                 {"name":"What you need to know before starting"},
                 {"name" : "Why this course"}
                 ]
             },
-            {"name":"All about HTML",
+            {"name":"Importancy of Learning English",
             "modules": [
-                {"name":"Basics of HTML"},
-                {"name" : "Semi-Advance"},
-                {"name":"Little Advanced"},
-                {"name" : "Advance topics"}
+                {"name":"English in Everyday life"},
+                {"name" : "English in School ,College, Vercity Life"},
+                {"name":"English in Job Life"},
+                {"name" : "English in Communication with foreigner"}
                 ]
             },
-            {"name":"All about CSS",
+            {"name":"Learn English With Simple Grammer",
             "modules": [
-                {"name":"Basics of CSS"},
-                {"name" : "Semi-Advance"},
-                {"name":"Little Advanced"},
-                {"name" : "Advance topics"}
+                {"name":"Basics of Grammer"},
+                {"name" : "Semi-Grammer"},
+                {"name":"Advanced Grammer"},
+                {"name" : "Uses of Advance Grammer"}
                 ]
             },
-            {"name":"All about JQUERY",
+            {"name":"Writing English",
             "modules": [
-                {"name":"Basics of JQUERY"},
-                {"name" : "Semi-Advance"},
-                {"name":"Little Advanced"},
-                {"name" : "Advance topics"}
+                {"name":"How to start Writing"},
+                {"name" : "Practice-1"},
+                {"name":"Search online for Writing Habits"},
+                {"name" : "Practice-2"}
                 ]
             },
-            {"name":"All about JAVASCRIPT",
+            {"name":"Speaking English",
             "modules": [
-                {"name":"What is JAVASCRIPT"},
-                {"name" : "Semi-Advance"},
-                {"name":"Little Advanced"},
-                {"name" : "Advance topics"}
+                {"name":"How to start speaking English"},
+                {"name" : "Speak with your Friends"},
+                {"name":"Speak with your Foreign friends"},
+                {"name" : "Final Video"}
                 ]
             }
         ]
